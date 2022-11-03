@@ -1,0 +1,405 @@
+<resources>
+    <string name="app_name">App3</string>
+    <string name="spinner_label">Baking Recipes</string>
+    <string name="button_label">Go to selected recipe</string>
+    <string name="option1">Chocolate Cake</string>
+    <string name="option2">Strawberry Cheesecake</string>
+    <string name="option3">Birthday Cake</string>
+    <string name="option4">Key Lime Pie</string>
+    <string name="option5">Apple Pie</string>
+    <string name="chocolate">Ingredients\n
+The Most Amazing Chocolate Cake\n\n
+
+    \t\t\t\tButter and flour for coating and dusting the cake pan\n
+    \t\t\t\t3 cups all-purpose flour\n
+    \t\t\t\t3 cups granulated sugar\n
+    \t\t\t\t1 1/2 cups unsweetened cocoa powder\n
+    \t\t\t\t1 tablespoon baking soda\n
+    \t\t\t\t1 1/2 teaspoons baking powder\n
+    \t\t\t\t1 1/2 teaspoons salt\n
+    \t\t\t\t4 large eggs\n
+    \t\t\t\t1 1/2 cups buttermilk\n
+    \t\t\t\t1 1/2 cups warm water\n
+    \t\t\t\t1/2 cup vegetable oil\n
+    \t\t\t\t2 teaspoons vanilla extract\n\n
+
+Chocolate Cream Cheese Buttercream Frosting\n\n
+
+    \t\t\t\t1 1/2 cups butter softened\n
+    \t\t\t\t8 oz cream cheese softened\n
+    \t\t\t\t1 1/2 cups unsweetened cocoa powder\n
+    \t\t\t\t3 teaspoons vanilla extract\n
+    \t\t\t\t7-8 cups powdered sugar\n
+    \t\t\t\tabout 1/4 cup milk as needed\n\n
+
+Instructions\n
+The Most Amazing Chocolate Cake\n\n
+
+    1. Preheat oven to 350 degrees Fahrenheit.\n
+    Butter three 9-inch cake rounds.\n
+    Dust with flour and tap out the excess.\n\n
+
+    2. Mix together flour, sugar, cocoa, baking soda, baking powder,\n
+    and salt in a stand mixer using a low speed until combined.\n\n
+
+    3. Add eggs, buttermilk, warm water, oil, and vanilla.\n
+    Beat on a medium speed until smooth.\n
+    This should take just a couple of minutes.\n\n
+
+    4. Divide batter among the three pans. I found that it took just\n
+    over 3 cups of the batter to divide it evenly.\n\n
+
+    5. Bake for 30-35 minutes in a 350 degree oven until a\n
+    toothpick inserted into the center comes out clean.\n\n
+
+    6. Cool on wire racks for 15 minutes and then turn out the\n
+    cakes onto the racks and allow to cool completely.\n\n
+
+    7. Frost with your favorite frosting and enjoy!\n\n
+
+Chocolate Cream Cheese Buttercream Frosting\n\n
+
+    1. In a large bowl, beat together butter and cream cheese until\n
+    fluffy. Use a hand mixer or stand mixer for best results\n\n
+
+    2. Add in cocoa powder and vanilla extract. Beat until combined.\n\n
+
+    3. Beat in powdered sugar, 1 cup at a time.\n
+    Add milk as necessary to make a spreadable consistency.\n
+    The frosting should be very thick and will thicken even more\n
+    if refrigerated.\n\n
+
+    Courtesy of Rachel Farnsworth at The Stay at Home Chef\n
+https://thestayathomechef.com/the-most-amazing-chocolate-cake</string>
+    <string name="cheesecake">Ingredients\n
+For the crust\n\n
+
+    \t\t\t\t2 cups (200 g) graham cracker crumbs, about 2 sleeves\n
+    \t\t\t\t¼ cup (50g) granulated sugar\n
+    \t\t\t\t6 tablespoons unsalted butter, melted\n\n
+
+For the filling\n\n
+
+    \t\t\t\t32 ounces (904 g) cream cheese, room temperature\n
+    \t\t\t\t1 ⅓ cups (266 g) granulated sugar\n
+    \t\t\t\t1 cup (227 g) sour cream, room temperature\n
+    \t\t\t\t1 tablespoon vanilla extract\n
+    \t\t\t\t¼ teaspoon salt\n
+    \t\t\t\t4 large eggs, room temperature, lightly beaten\n\n
+
+For the sauce\n\n
+
+    \t\t\t\t16 ounces (400 g) whole strawberries, diced\n
+    \t\t\t\t2 tablespoons cornstarch\n
+    \t\t\t\t1 cup (200 g) granulated sugar\n
+    \t\t\t\t2 teaspoons vanilla extract\n
+    \t\t\t\t⅛ teaspoon salt\n
+    \t\t\t\t2 cups (334 g) finely chopped strawberries\n\n
+
+Instructions\n
+Make the crust\n\n
+
+    1. Move the oven rack to the lower third position and\n
+    heat the oven to 350°F. Wrap the outer bottom of a 9-inch\n
+    springform pan tightly with aluminum foil.\n\n
+
+    2. Combine the graham cracker crumbs, sugar, and melted\n
+    butter. Press the crumb mixture into the bottom and about\n
+    2-inches up the sides of the pan. Bake for 10 minutes.\n
+    Set aside to cool while you make the filling.\n\n
+
+Make the filling\n\n
+
+    1. Reduce the oven temperature to 300ºF.\n\n
+
+    2. In a large mixing bowl beat the cream cheese with an\n
+    electric mixer until smooth and creamy, about 1 minute.\n\n
+
+    3. Add the sugar and sour cream, beat until well combined.\n
+    Add the vanilla and salt, beat on low speed until smooth.\n\n
+
+    4. Using a silicone spatula, gently stir in the eggs just\n
+    until combined. Pour the batter over the prepared crust.\n\n
+
+    5. Fill a roasting pan with a few inches of boiling water\n
+    and place the cheesecake in the center.\n\n
+
+    6. Bake for 1 hour, OR until the edges are set and the center is\n
+    slightly jiggly. Turn the oven off, leave the cheesecake\n
+    in the water bath in the oven for another hour.\n\n
+
+    7. Remove the cheesecake from the water bath and place it on a\n
+    wire rack. Run a small knife around the outer edge of the\n
+    cheesecake to loosen it from the pan and leave it to cool\n
+    completely.\n\n
+
+Make the sauce\n\n
+
+    1. Add the diced strawberries and cornstarch to the bowl\n
+    of a food processor and process until smooth.\n
+    Transfer to a medium saucepan and add the sugar.\n\n
+
+    2. Cook over medium heat, stirring constantly until thickened,\n
+    about 15 minutes.\n\n
+
+    3. Remove from heat and stir in the vanilla, salt, and chopped\n
+    strawberries. Set aside to cool for about 40 minutes,\n
+    stirring occasionally.\n\n
+
+    4. Spread the topping evenly over the cheesecake and\n
+    refrigerate for at least 4 hours, preferably overnight.\n\n
+
+    5. Remove the sides of the pan just before serving.\n\n
+
+    Courtesy of Jen Sobjack at Baked by an Introvert\n
+https://www.bakedbyanintrovert.com/strawberry-cheesecake/#mv-creation-422-jtr</string>
+    <string name="birthday">Ingredients\n
+For the Cake Layers\n\n
+
+    \t\t\t\t2 cups all-purpose flour, spooned into measuring cup and\n
+    \t\t\t\tleveled-off with back edge of knife\n
+    \t\t\t\t2 teaspoons baking powder\n
+    \t\t\t\t1/4 teaspoon salt\n
+    \t\t\t\t12 tablespoons (1-1/2 sticks) unsalted butter, softened\n
+    \t\t\t\t1-1/2 cups granulated sugar\n
+    \t\t\t\t6 large egg whites, at room temperature\n
+    \t\t\t\t3/4 cup whole milk, at room temperature\n
+    \t\t\t\t1-1/2 teaspoons vanilla extract\n
+    \t\t\t\t1/2 teaspoon almond extract\n\n
+
+For the Buttercream\n\n
+
+    \t\t\t\t12 tablespoons (1-1/2 sticks) unsalted butter, softened\n
+    \t\t\t\t4 ounces cream cheese, at room temperature\n
+    \t\t\t\t6 cups confectioners\' sugar\n
+    \t\t\t\t3 teaspoons vanilla extract\n
+    \t\t\t\tPinch salt\n\n
+
+Instructions\n
+For the Cake\n\n
+
+    Position a rack in the middle of the oven and preheat to 350°F.\n
+    Spray two 8-inch cake pans with nonstick cooking spray.\n
+    Cut two 8-inch rounds of parchment paper and line the bottom\n
+    of each pan; spray the paper with nonstick spray.\n
+    (To measure the parchment paper, just trace the bottom of\n
+    the pan.)\n\n
+
+    In a medium bowl, whisk together the flour,\n
+    baking powder, and salt.\n\n
+
+    Place the butter and sugar in the bowl of a heavy-duty mixer\n
+    fitted with the paddle attachment and beat on medium speed\n
+    for about 5 minutes, or until very soft and light.\n
+    Beat in the vanilla and almond extracts.\n\n
+
+    Meanwhile, whisk together the egg whites and milk by hand\n
+    in a medium bowl until just combined.\n
+    Reduce the mixer speed to low and beat in one-quarter of the\n
+    flour mixture, then one-third of the milk mixture, stopping and\n
+    scraping down the bowl and beater after each addition.\n
+    Beat in another quarter of the flour, then another third of the\n
+    milk mixture. Scrape again. Repeat with another quarter of the\n
+    flour and the remaining milk mixture; scrape.\n
+    Finally, beat in the remaining flour mixture.\n\n
+
+    Scrape the bowl with a large rubber spatula.\n
+    Don\'t worry if the batter looks a little grainy.\n
+    Pour the batter into the prepared cake pans and\n
+    smooth the tops.\n\n
+
+    Bake the cakes for 30-35 minutes, until they are well risen\n
+    and firm and a toothpick inserted into the center emerges clean.\n
+    Cool the cakes in the pans on rack for 5 minutes,\n
+    then unmold onto rack to finish cooling right side up\n
+    (keep parchment paper underneath cake layers so they don\'t\n
+    stick to rack). When cake layers are completely cool,\n
+    transfer to cake plate and frost with vanilla buttercream.\n
+    (I always flip the bottom layer of the cake so that the\n
+    domed side is facing down and touching the plate.\n
+    That way, the surface that you\'re icing is flat and will\n
+    minimize any separating between the two layers when you\n
+    put the other layer on top of it.)\n\n
+
+For the Vanilla Buttercream\n\n
+
+    In the bowl of an electric mixer, cream the butter and\n
+    cream cheese until creamy and well combined.\n\n
+
+    Gradually add the confectioners\' sugar,\n
+    then beat in the vanilla and salt.\n
+    If the frosting is too thick, add 1-2 tablespoons of milk or cream.\n\n
+
+    Courtesy of Jenn Segal at Once Upon a Chef\n
+https://www.onceuponachef.com/recipes/vanilla-birthday-cake-with-old-fashioned-vanilla-buttercream.html</string>
+    <string name="key_lime">Ingredients\n
+For the Crust\n\n
+
+    \t\t\t\t1-1/2 cups finely crushed graham cracker crumbs,\n
+    from about 12 whole graham crackers\n
+    \t\t\t\t1/3 cup packed light brown sugar\n
+    \t\t\t\t4 tablespoons unsalted butter, melted\n\n
+
+For the Filling\n\n
+
+    \t\t\t\tTwo 14-oz cans sweetened condensed milk\n
+    \t\t\t\t1 cup plain Greek yogurt (2% or whole milk)\n
+    \t\t\t\t1 tablespoon grated lime zest\n
+    \t\t\t\t3/4 cup fresh lime juice\n\n
+
+For the Topping\n\n
+
+    \t\t\t\t1 cup cold heavy cream\n
+    \t\t\t\t2 tablespoons confectioners\' sugar\n
+    \t\t\t\t1 teaspoon grated lime zest\n
+    \t\t\t\t8 to 10 thin lime slices\n\n
+
+Instructions\n
+For the Crust\n\n
+
+    Preheat oven to 375 °F and set an oven rack in the middle\n
+    position.\n\n
+
+    In a medium bowl, combine the graham cracker crumbs,\n
+    brown sugar, and melted butter; stir with a fork first,\n
+    and then your hands until the mixture is well combined.\n
+    Using your fingers and the bottom of a glass or dry\n
+    measuring cup, press the crumbs firmly into the bottom and\n
+    up the sides of a 9 x 1.5-inch pie pan.\n
+    The crust should be about ¼-inch thick.\n
+    (Tip: do the sides first.)\n\n
+
+    Bake for 10 minutes, until just slightly browned.\n
+    Let the crust cool on a wire rack.\n\n
+
+For the Filling\n\n
+
+    Lower the oven temperature to 350°F.\n\n
+
+    In a large bowl, whisk together the sweetened condensed milk,\n
+    yogurt, lime zest, and lime juice.\n
+    Pour the thick mixture into the warm graham cracker crust.\n
+    Bake for 15 minutes, until the filling is almost set;\n
+    it should wobble a bit. Let cool at room temperature for\n
+    30 minutes, then place in the refrigerator to chill thoroughly,\n
+    about 3 hours.\n\n
+
+For the Topping\n\n
+
+    In the bowl of an electric mixer, beat the heavy cream until\n
+    soft peaks form. Add the confectioners\' sugar and beat until\n
+    medium peaks form. Top the pie with the whipped cream.\n
+    Decorate with the lime zest and lime slices.\n
+    Store the pie in the refrigerator until ready to serve.\n
+    Slice the pie into wedges, wiping your knife clean between\n
+    slices, and serve cold.\n\n
+
+Courtesy of Jenn Segal at Once Upon a Chef\n
+https://www.onceuponachef.com/recipes/key-lime-pie.html</string>
+    <string name="apple">Ingredients\n
+
+    \t\t\t\t3 pounds good cooking apples such as Granny Smith,\n
+    \t\t\t\t\t\t\t\tJonagold, Golden Delicious, Fuji, or Braeburn\n
+    \t\t\t\t\t\t\t\t(about 6 to 8 apples, depending on the size\n
+    \t\t\t\t\t\t\t\tof your apples and the size of your pie dish)\n
+    \t\t\t\t\t\t\t\t1 tablespoon lemon juice or apple cider vinegar\n
+    \t\t\t\t\t\t\t\t(to toss with the sliced apples so they don\'t\n
+    \t\t\t\t\t\t\t\tbrown as you slice them)\n
+    \t\t\t\t1/2 cup to 2/3 cup sugar, depending on how\n
+    \t\t\t\tsweet you like your pie\n
+    \t\t\t\t3 tablespoons all-purpose flour for thickening\n
+    \t\t\t\t1/2 teaspoon cinnamon\n
+    \t\t\t\t1/4 teaspoon ground allspice\n
+    \t\t\t\t1/4 teaspoon ground nutmeg\n
+    \t\t\t\t1 tablespoon brandy (Optional. By the way,\n
+    \t\t\t\tif you have Calvados apple brandy, use it!)\n
+    \t\t\t\t1 teaspoon vanilla extract\n
+    \t\t\t\t1 recipe double crust sour cream pie dough,\n
+    \t\t\t\t\t\t\t\tOR all-butter crust, OR your favorite pie crust\n
+    \t\t\t\t\t\t\t\trecipe\n\n
+
+    \t\t\t\tFor the egg wash:\n\n
+    \t\t\t\t1 large egg yolk\n
+    \t\t\t\t1 tablespoon cream\n\n
+
+Method\n\n
+
+    1. Peel, core, and slice the apples\n
+    Peel, core and slice or roughly chop the apples into 1/4-inch\n
+    to 1/2-inch slices or chunks.\n\n
+
+    As you cut your apple slices, add them to a large bowl and\n
+    sprinkle them with a little lemon juice or apple cider vinegar to\n
+    help keep them from turning brown.\n\n
+
+    2. Make the apple pie filling\n
+    Combine sugar, flour and spices (allspice, nutmeg, cinnamon)\n
+    in a bowl. Add the flour mixture to the apple slices and use your\n
+    hands to distribute the flour through the apples so they are well\n
+    coated.\n\n
+
+    Then sprinkle with brandy and vanilla extract and stir to\n
+    coat all the apples.\n\n
+
+    3. Prepare oven\n
+    Place one oven rack in the lowest position and put a large\n
+    rimmed baking sheet on it (to catch any drippings from the\n
+    pie.) Position a second rack the next rung up (still in the\n
+    lower third of the oven) and preheat to 375°F.\n\n
+
+    4. Roll out the dough and line bottom pie plate\n
+    Remove one disk of pie dough from the refrigerator. Let sit at\n
+    room temperature for 5-10 minutes. Place disk on a lightly\n
+    floured, clean, flat surface. Using a rolling pin, roll out the pie\n
+    dough to a 12-inc circle, about 1/8 of an inch thick.\n\n
+
+    As you roll out the dough, check to make sure it isn\'t sticking.\n
+    If and when it starts to stick, gently lift it up and sprinkle a\n
+    little more flour on the table surface or on the pie dough to keep\n
+    the dough from sticking.\n\n
+
+    Gently place the rolled out dough onto a 9-inch pie plate. Press\n
+    down to line the pie dish with the dough.\n\n
+
+    5. Place apple slices on top of the bottom crust\n
+    Arrange the apple slices in the dough-lined pie plate. Mound the\n
+    apples in the center.\n\n
+
+    6. Roll out top crust, place over apples, trim and crimp edges\n
+    Roll out the second disk of dough, again to 12-inches. Gently\n
+    place the second round of pie dough over the apples. Trim\n
+    excess dough with kitchen shears, leaving a 3/4 inch overhang\n
+    from the edges of the pie pan.\n\n
+
+    Fold the dough under itself so that the edge of the fold comes\n
+    right to the edge of the pan. Press the top and bottom dough\n
+    rounds together as you flute edges using thumb and forefinger\n
+    or press with a fork.\n\n
+
+    7. Brush with egg wash, cut vents\n
+    Place egg yolk and cream in a small bowl and use a fork to stir\n
+    until well combined. Use a pastry brush to brush the egg wash\n
+    over the top and fluted edges of the pie. Use a sharp knife to\n
+    cut slits in the top of the pie crust for steam vents.\n\n
+
+    8. Bake\n
+    Place pie on oven rack centered over the baking sheet on the\n
+    rack below it to catch any drippings. Bake the pie at 375°F\n
+    until crust begins to lightly brown, about 20 minutes, then reduce\n
+    heat to 350°F.\n\n
+
+    Bake until crust is golden and juices are bubbling, anywhere\n
+    from an additional 45 minutes to an hour, depending on the type\n
+    of apples you are using. (About halfway through baking check to\n
+    make sure the pie isn\'t browning too much. When it\'s nicely\n
+    browned, tent the pie with a large piece of aluminum foil to keep\n
+    the pie from browning further.)\n\n
+
+    9. Let cool\n
+    Transfer the apple pie to a rack to cool for at least 1 hour.\n
+    Serve slightly warm or at room temperature. Great with a side\n
+    of vanilla ice cream.\n\n
+
+    Courtesy of Elise Bauer at Simply Recipes\n
+https://www.simplyrecipes.com/recipes/old_fashioned_apple_pie/</string>
+</resources>
