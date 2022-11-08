@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">App3</string>
     <string name="spinner_label">Baking Recipes</string>
-    <string name="button_label">Go to selected recipe</string>
+    <string name="button_label">Go</string>
     <string name="option1">Chocolate Cake</string>
     <string name="option2">Strawberry Cheesecake</string>
     <string name="option3">Birthday Cake</string>
