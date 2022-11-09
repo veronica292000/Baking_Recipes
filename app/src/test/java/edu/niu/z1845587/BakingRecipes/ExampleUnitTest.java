@@ -1,4 +1,4 @@
-package edu.niu.z1845587.app3;
+package edu.niu.z1845587.BakingRecipes;
 
 import org.junit.Test;
 

@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "edu.niu.z1845587.app3"
+        applicationId "edu.niu.z1845587.BakingRecipes"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1

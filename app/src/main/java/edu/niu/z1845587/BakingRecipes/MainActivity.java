@@ -5,7 +5,7 @@ Due Date: 3/5/21
 Class: CSCI 322
 */
 
-package edu.niu.z1845587.app3;
+package edu.niu.z1845587.BakingRecipes;
 
 import androidx.appcompat.app.AppCompatActivity;
 
