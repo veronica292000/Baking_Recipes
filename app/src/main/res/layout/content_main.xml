@@ -46,7 +46,8 @@
         android:layout_marginRight="5dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView" />
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
 
     <ImageView
         android:id="@+id/recipeImageView"
@@ -60,8 +61,8 @@
 
     <Button
         android:id="@+id/recipeButton"
-        android:layout_width="91dp"
-        android:layout_height="59dp"
+        android:layout_width="131dp"
+        android:layout_height="69dp"
         android:layout_marginBottom="132dp"
         android:onClick="getRecipe"
         android:text="@string/button_label"

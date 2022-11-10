@@ -20,12 +20,14 @@ public class RecipeActivity extends AppCompatActivity
 
         titleTV = findViewById(R.id.titleTextView);
         recipeTV = findViewById(R.id.recipeTextView);
-
+/*
         if (this.getIntent().getStringExtra(titleTV.INTENTKEY_TITLETV) != null)
             titleTV.setText(this.getIntent().getStringExtra(titleTV.INTENTKEY_TITLETV));
 
         if (this.getIntent().getStringExtra(titleTV.INTENTKEY_RECIPETV) != null)
             recipeTV.setText(this.getIntent().getStringExtra(titleTV.INTENTKEY_RECIPETV));
+
+ */
     }//end onCreate
 
     //method to handle the button click

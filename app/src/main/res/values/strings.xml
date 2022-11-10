@@ -5,6 +5,9 @@
     <string name="add_label">Add Recipe</string>
     <string name="edit_label">Edit Recipe</string>
     <string name="delete_label">Remove Recipe</string>
+    <string name="add_recipe_label">Add Your Own Recipe</string>
+    <string name="insert_name_label">Recipe Name</string>
+    <string name="back_button">Back</string>
     <string name="option1">Chocolate Cake</string>
     <string name="option2">Strawberry Cheesecake</string>
     <string name="option3">Birthday Cake</string>
