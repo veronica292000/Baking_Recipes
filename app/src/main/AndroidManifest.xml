@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="edu.niu.z1845587.app3">
+    package="edu.niu.z1845587.BakingRecipes">
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.App3">
-        <activity android:name=".RecipeActivity"></activity>
-        <activity android:name=".MainActivity">
-            android:windowSoftInputMode="stateVisible">
+        android:theme="@style/Theme.BakingRecipes">
+
+        <activity android:name=".InsertActivity" />
+        <activity android:name=".RecipeActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:label="Menu"
+            android:theme="@style/Theme.BakingRecipes.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
