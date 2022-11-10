@@ -8,6 +8,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BakingRecipes">
+
+        <activity android:name=".InsertActivity" />
         <activity android:name=".RecipeActivity" />
         <activity
             android:name=".MainActivity"

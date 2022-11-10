@@ -33,24 +33,40 @@
 
     <EditText
         android:id="@+id/itemNameEditText"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="169dp"
+        android:layout_height="39dp"
         android:layout_marginStart="15dp"
         android:layout_marginLeft="15dp"
-        android:layout_marginTop="30dp"
+        android:layout_marginTop="28dp"
         android:ems="10"
         android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toEndOf="@+id/textView3"
         app:layout_constraintTop_toBottomOf="@+id/textView2"
         tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+    <EditText
+        android:id="@+id/editTextTextMultiLine"
+        android:layout_width="323dp"
+        android:layout_height="258dp"
+        android:layout_marginTop="88dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="Type Recipe Here"
+        android:inputType="textMultiLine"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.34"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
 
     <Button
         android:id="@+id/addButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="68dp"
-        android:layout_marginLeft="68dp"
-        android:layout_marginBottom="420dp"
+        android:layout_marginStart="52dp"
+        android:layout_marginLeft="52dp"
+        android:layout_marginBottom="288dp"
         android:background="#ADD6F7"
         android:onClick="addItem"
         android:text="@string/add_label"
@@ -65,14 +81,14 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="96dp"
         android:layout_marginRight="96dp"
-        android:layout_marginBottom="420dp"
+        android:layout_marginBottom="288dp"
         android:background="#ADD6F7"
         android:onClick="goBack"
         android:text="@string/back_button"
         android:textAllCaps="false"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.7"
         app:layout_constraintStart_toEndOf="@+id/addButton"
         tools:ignore="TextContrastCheck" />
 </androidx.constraintlayout.widget.ConstraintLayout>
